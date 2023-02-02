@@ -1,27 +1,22 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: 
 baseurl: ""
 permalink: /:year/:month/:day/:title/
-google_analytics: 
-
-name: Thomas Vaeth
-title: The Barber Theme
+name: Declan Dawson Taylor
+title: Declan Dawson Taylor
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+  Declan Dawson Taylor's personal website, showcasing my photography, writing, and academic portfolio.
+url: http://declan-taylor.github.io
+#twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 social:
-  - name: twitter
-    url: https://twitter.com/thomasvaeth
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
-  - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url: https://www.instagram.com/declan.dawson
+    - name: twitter
+    url: https://twitter.com/Declan_D_Taylor
   - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://github.com/declan-taylor/
+
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
@@ -31,14 +26,14 @@ formcarry: https://formcarry.com/s/HkIo0nMb7
 disqus: test-apkdzgmqhj
 
 # MailChimp settings
-mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
+mailchimp_action: 
+mailchimp_input:
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Declan Dawson Taylor
+    bio: Declan Dawson Taylor is a student, adventurer, and aspiring filmmaker. From a flatter place further East, he now lives in Vancouver, B.C..
+    url: http://declan-taylor.github.io
 
 # Pagination settings
 pagination:
@@ -59,7 +54,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'Declan Dawson Taylor'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
