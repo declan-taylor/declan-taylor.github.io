@@ -12,7 +12,7 @@ default_img: /assets/images/seo.jpg
 social:
   - name: instagram
     url: https://www.instagram.com/declan.dawson
-    - name: twitter
+  - name: twitter
     url: https://twitter.com/Declan_D_Taylor
   - name: github
     url: https://github.com/declan-taylor/
